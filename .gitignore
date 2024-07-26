@@ -1,0 +1,42 @@
+# Config files
+*.cfg
+golden/
+configs/
+output/
+
+# HTML diff output
+diff_output/
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Other
+*.bak
+*.swp
+*~
